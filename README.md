@@ -3,4 +3,4 @@
 Profil public de l'organisation BoothX sur GitHub.
 
 - `profile/README.md` : la page affichée sur [github.com/boothx](https://github.com/boothx).
-- `assets/` : logos utilisés par cette page.
+- `assets/` : logos et capture d'écran utilisés par cette page.
