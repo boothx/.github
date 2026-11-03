@@ -56,7 +56,7 @@ Le logiciel reste gratuit. Plus de bornes, d'événements et de stockage, au moi
 |---|:-:|:-:|:-:|
 | Appareils | 1 | 4 | 25 |
 | Événements | 20 | 100 | 500 |
-| Espace cloud | 100 Mo | 10 Go | 100 Go |
+| Espace cloud | 100 Mo | 10 Go | 250 Go |
 | Modèles | Part gratuite de chaque thème | 4 thèmes par mois | Toute la banque et la boutique |
 | En plus | Impression illimitée, hors-ligne | Sauvegarde auto, galerie en ligne, musique | Affichage HDMI, télécommande depuis le téléphone, IA (bientôt) |
 
@@ -64,7 +64,7 @@ Le logiciel reste gratuit. Plus de bornes, d'événements et de stockage, au moi
 
 ### Liens
 
-- [Télécharger](https://boothx.org/fr-fr/download) : Windows, macOS et Linux ; iPad et Android bientôt.
+- [Télécharger](https://boothx.org/fr-fr/download) : Windows, macOS, Linux, iOS et Android.
 - [App](https://app.boothx.org) : vos bornes et vos événements en direct, depuis un ordinateur, une tablette ou un téléphone.
 - [Galeries](https://cloud.boothx.org) : les photos des invités, récupérées par QR code.
 - [Boutique](https://shop.boothx.org/fr-fr) : forfaits, templates et packs.
@@ -113,7 +113,7 @@ The software stays free. More booths, events and storage, monthly or yearly.
 |---|:-:|:-:|:-:|
 | Devices | 1 | 4 | 25 |
 | Events | 20 | 100 | 500 |
-| Cloud storage | 100 MB | 10 GB | 100 GB |
+| Cloud storage | 100 MB | 10 GB | 250 GB |
 | Templates | Free part of each theme | 4 themes a month | The whole library and shop |
 | Also | Unlimited printing, offline | Automatic backup, online gallery, music | HDMI display, remote control from your phone, AI (soon) |
 
@@ -121,7 +121,7 @@ The software stays free. More booths, events and storage, monthly or yearly.
 
 ### Links
 
-- [Download](https://boothx.org/en-us/download): Windows, macOS and Linux; iPad and Android soon.
+- [Download](https://boothx.org/en-us/download): Windows, macOS, Linux, iOS and Android.
 - [App](https://app.boothx.org): your booths and events live, from a computer, tablet or phone.
 - [Galleries](https://cloud.boothx.org): the guests' photos, picked up by QR code.
 - [Shop](https://shop.boothx.org/en-us): plans, templates and packs.
@@ -170,7 +170,7 @@ El software sigue siendo gratuito. Más fotomatones, eventos y almacenamiento, a
 |---|:-:|:-:|:-:|
 | Dispositivos | 1 | 4 | 25 |
 | Eventos | 20 | 100 | 500 |
-| Espacio en la nube | 100 MB | 10 GB | 100 GB |
+| Espacio en la nube | 100 MB | 10 GB | 250 GB |
 | Plantillas | Parte gratuita de cada tema | 4 temas al mes | Todo el banco y la tienda |
 | Además | Impresión ilimitada, sin conexión | Copia automática, galería en línea, música | Pantalla HDMI, control remoto desde el móvil, IA (pronto) |
 
@@ -178,7 +178,7 @@ El software sigue siendo gratuito. Más fotomatones, eventos y almacenamiento, a
 
 ### Enlaces
 
-- [Descargar](https://boothx.org/es-es/download): Windows, macOS y Linux; iPad y Android muy pronto.
+- [Descargar](https://boothx.org/es-es/download): Windows, macOS, Linux, iOS y Android.
 - [App](https://app.boothx.org): tus fotomatones y eventos en directo, desde un ordenador, una tableta o un móvil.
 - [Galerías](https://cloud.boothx.org): las fotos de los invitados, por código QR.
 - [Tienda](https://shop.boothx.org/es-es): planes, plantillas y packs.
