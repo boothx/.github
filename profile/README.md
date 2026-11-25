@@ -37,72 +37,72 @@ BoothX n'est pas une page web dans une fenêtre. L'application est compilée en 
 <tr>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/icone-camera.svg" alt="" width="40" height="40">
-<br><br><strong>Appareils photo</strong><br>
+<br><strong>Appareils photo</strong><br>
 Reflex et hybrides Canon EOS en USB, webcams et clés d'acquisition, avec la vue en direct.
 </td>
 <td width="50%" valign="top">
 <img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/icone-impression.svg" alt="" width="40" height="40">
-<br><br><strong>Impression</strong><br>
+<br><strong>Impression</strong><br>
 Imprimantes photo de sept marques, une file d'attente par événement, sans internet.
 </td>
 </tr>
 <tr>
 <td valign="top">
 <img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/icone-editeur.svg" alt="" width="40" height="40">
-<br><br><strong>Éditeur</strong><br>
+<br><strong>Éditeur</strong><br>
 Templates photo et écrans d'accueil dessinés sur la borne ou dans l'app web, puis imprimés aussitôt.
 </td>
 <td valign="top">
 <img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/icone-ia.svg" alt="" width="40" height="40">
-<br><br><strong>Intelligence artificielle</strong><br>
+<br><strong>Intelligence artificielle</strong><br>
 Décrivez la soirée : un template arrive dans l'éditeur, prêt à retoucher.
 </td>
 </tr>
 <tr>
 <td valign="top">
 <img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/icone-telecommande.svg" alt="" width="40" height="40">
-<br><br><strong>Télécommande</strong><br>
+<br><strong>Télécommande</strong><br>
 Pilotez vos bornes à distance, depuis le panneau web ou le téléphone, dès le forfait Pro.
 </td>
 <td valign="top">
 <img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/icone-synchro.svg" alt="" width="40" height="40">
-<br><br><strong>Synchronisation</strong><br>
+<br><strong>Synchronisation</strong><br>
 Événements, designs et réglages suivent votre compte, d'une borne à l'autre.
 </td>
 </tr>
 <tr>
 <td valign="top">
 <img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/icone-cloud.svg" alt="" width="40" height="40">
-<br><br><strong>Cloud et galeries</strong><br>
+<br><strong>Cloud et galeries</strong><br>
 Photos, GIF et boomerangs sauvegardés, galerie ouverte par QR code sur le téléphone des invités.
 </td>
 <td valign="top">
 <img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/icone-boutique.svg" alt="" width="40" height="40">
-<br><br><strong>Boutique</strong><br>
+<br><strong>Boutique</strong><br>
 Packs et templates à installer en quelques instants.
 </td>
 </tr>
 <tr>
 <td valign="top">
 <img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/icone-musique.svg" alt="" width="40" height="40">
-<br><br><strong>Musique</strong><br>
+<br><strong>Musique</strong><br>
 L'ambiance sonore de la soirée, reliée depuis la borne.
 </td>
 <td valign="top">
 <img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/icone-lumiere.svg" alt="" width="40" height="40">
-<br><br><strong>Lumière</strong><br>
+<br><strong>Lumière</strong><br>
 Éclairage et flash réglés dans l'application.
 </td>
 </tr>
 <tr>
 <td valign="top">
 <img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/icone-extensions.svg" alt="" width="40" height="40">
-<br><br><strong>Extensions</strong><br>
+<br><strong>Extensions</strong><br>
 Activez seulement les modes et les fonctions dont vous avez besoin.
 </td>
 <td valign="top">
 <img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/icone-hors-ligne.svg" alt="" width="40" height="40">
-<br><br><strong>Hors ligne</strong><br>
+<br><strong>Hors ligne</strong><br>
 Capture, éditeur et impression restent disponibles sans réseau.
 </td>
 </tr>
@@ -110,9 +110,9 @@ Capture, éditeur et impression restent disponibles sans réseau.
 
 ## Multiplateforme
 
-| Windows | macOS | Linux | Android et iOS |
-|:---:|:---:|:---:|:---:|
-| Borne complète | Borne complète | Borne complète | App de pilotage |
+| Borne complète | App de pilotage |
+|:---:|:---:|
+| Windows, macOS, Linux | Android, iOS |
 
 BoothX arrive bientôt : inscrivez-vous sur [boothx.org](https://www.boothx.org) pour être prévenu du lancement. Le forfait Community sera gratuit, sans limite d'événements et sans filigrane.
 
