@@ -2,8 +2,6 @@
 
 <a href="https://www.boothx.org"><img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/banniere.svg" alt="BoothX, le photobooth professionnel, natif et ultra rapide" width="100%"></a>
 
-<br><br>
-
 Photographiez, imprimez et partagez vos événements, même sans connexion Internet.<br>
 Une application native écrite en C++, pensée pour tenir toute la soirée.
 
@@ -12,8 +10,6 @@ Une application native écrite en C++, pensée pour tenir toute la soirée.
 [![Qt 6.12](https://img.shields.io/badge/Qt-6.12-41CD52?style=for-the-badge&labelColor=0C0C0C)](https://www.qt.io/)
 
 </div>
-
-<br>
 
 ## Ultra rapide, parce que native
 
@@ -26,8 +22,6 @@ BoothX n'est pas une page web dans une fenêtre. L'application est compilée en 
 - **Moteur d'IA** : suivi du visage et détourage calculés sur la machine, sans envoyer la photo sur un serveur (bientôt dans la version publique).
 - **Hors ligne d'abord** : la prise de vue, l'éditeur et l'impression ne dépendent jamais du réseau.
 
-<br>
-
 ## La télécommande et vos bornes, toujours au même point
 
 <img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/synchro.svg" alt="Depuis le téléphone, la télécommande passe par le cloud et atteint toutes les bornes, synchronisées" width="100%">
@@ -36,8 +30,6 @@ BoothX n'est pas une page web dans une fenêtre. L'application est compilée en 
 - **Le résultat revient aussitôt** : la borne répond à chaque commande, et son état remonte au panneau.
 - **Un événement saisi une fois** : il arrive avec son design sur toutes les bornes du compte.
 - **Une coupure ne bloque rien** : la borne continue, et tout se rattrape au retour du réseau.
-
-<br>
 
 ## Tout ce qu'il faut pour un événement
 
@@ -116,8 +108,6 @@ Capture, éditeur et impression restent disponibles sans réseau.
 </tr>
 </table>
 
-<br>
-
 ## Multiplateforme
 
 | Windows | macOS | Linux | Android et iOS |
@@ -125,8 +115,6 @@ Capture, éditeur et impression restent disponibles sans réseau.
 | Borne complète | Borne complète | Borne complète | App de pilotage |
 
 BoothX arrive bientôt : inscrivez-vous sur [boothx.org](https://www.boothx.org) pour être prévenu du lancement. Le forfait Community sera gratuit, sans limite d'événements et sans filigrane.
-
-<br>
 
 ## Feuille de route
 
