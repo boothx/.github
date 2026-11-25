@@ -1,8 +1,8 @@
 <div align="center">
 
-<a href="https://www.boothx.org"><img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/banniere.svg" alt="BoothX, le photobooth professionnel, de la prise de vue au partage" width="100%"></a>
+<a href="https://www.boothx.org"><img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/accueil.svg" alt="BoothX, le photobooth professionnel, de la prise de vue au partage" width="100%"></a>
 
-<br><br>
+<br>
 
 <a href="https://www.boothx.org/download"><img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/telecharger.svg" alt="TÉLÉCHARGER" width="260"></a>
 
@@ -16,7 +16,7 @@
 
 ## Extrêmement rapide, partout
 
-<img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/moteur.svg" alt="Les couches de BoothX : interface, moteur éditeur, moteur IA, photo et impression, cœur C et C++, pour Windows, macOS, Linux, Android et iOS" width="100%">
+<img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/couches.svg" alt="Les couches de BoothX : interface, moteur éditeur, moteur IA, photo et impression, cœur C et C++, pour Windows, macOS, Linux, Android et iOS" width="100%">
 
 Compilé en code machine et dessiné par la carte graphique, sans navigateur caché. La soirée continue même sans Internet.
 
