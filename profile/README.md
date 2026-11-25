@@ -10,7 +10,7 @@
 
 <img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/calendrier.svg" alt="Bêta fermée le 1er décembre 2026, puis bêta ouverte du 15 décembre 2026 jusqu’aux fêtes de fin d’année" width="100%">
 
-<img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/chiffres.svg" alt="Plus de 1 million de lignes de code, une application qui consomme jusqu’à 11 fois moins que les logiciels du marché" width="100%">
+<img src="https://raw.githubusercontent.com/boothx/.github/main/profile/assets/mesures.svg" alt="Plus de 6 millions de lignes de code au total, une application qui consomme jusqu’à 11 fois moins que les logiciels du marché" width="100%">
 
 </div>
 
